@@ -1,0 +1,74 @@
+example of discrepancies:
+
+Tainy	Adicto	Spotify	2013-2020
+Tainy, Anuel AA, Ozuna	Adicto	YouTube	2019
+Tainy, Anuel AA & Ozuna	Adicto	Apple Music	2017-2020
+
+Jessie J	Bang Bang	Spotify	2013-2020
+Jessie J, Nicki Minaj & Ariana Grande	Bang Bang	chart2000	2010s
+Jessie J, Ariana Grande, Nicki Minaj	Bang Bang	YouTube	2014
+Jessie J, Ariana Grande & Nicki Minaj	Bang Bang	Itunes	2010-2020
+
+Katy Perry & Snoop Dogg	California Gurls	chart2000	2010s
+Katy Perry	California Gurls	Itunes	2010-2020
+Katy Perry	California Gurls ft. Snoop Dogg	YouTube	2010
+
+Spotify is usually bad with crediting featuring artists, while youtube always almost includes them.
+Romeo Santos	Bella y Sensual	Spotify	2013-2020
+Romeo Santos, Daddy Yankee, Nicky Jam	Bella y Sensual	YouTube	2017
+Romeo Santos, Daddy Yankee & Nicky Jam	Bella y Sensual	Apple Music	2017-2020
+
+Labrinth	Beneath Your Beautiful	Itunes	2010-2020
+Labrinth	Beneath Your Beautiful ft. Emeli Sandé	YouTube	2012
+
+Rae Sremmurd	Black Beatles	Spotify	2013-2020
+Rae Sremmurd	Black Beatles	Itunes	2010-2020
+Rae Sremmurd	Black Beatles ft. Gucci Mane	YouTube	2016
+
+Iggy Azalea	Black Widow	Spotify	2013-2020
+Iggy Azalea	Black Widow	Itunes	2010-2020
+Iggy Azalea	Black Widow ft. Rita Ora	YouTube	2014
+
+Calvin Harris	Blame	Spotify	2013-2020
+Calvin Harris	Blame	Itunes	2010-2020
+Calvin Harris	Blame ft. John Newman	YouTube	2014
+
+Kygo	Born To Be Yours	Spotify	2013-2020
+Kygo & Imagine Dragons	Born to Be Yours	Itunes	2010-2020
+Kygo & Imagine Dragons	Born to Be Yours	Apple Music	2017-2020
+
+Hailee Steinfeld	Capital Letters	Spotify	2013-2020
+Hailee Steinfeld & BloodPop®	Capital Letters	Itunes	2010-2020
+Hailee Steinfeld & BloodPop®	Capital Letters	Apple Music	2017-2020
+
+Anuel Aa	China	Spotify	2013-2020
+Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin	China	YouTube	2019
+Anuel AA, Daddy Yankee & Karol G	China	Apple Music	2017-2020
+
+Natti Natasha	Criminal	Spotify	2013-2020
+Natti Natasha, Ozuna	Criminal	YouTube	2017
+Natti Natasha & Ozuna	Criminal	Apple Music	2017-2020
+
+Sam Smith	Dancing With A Stranger	Spotify	2013-2020
+Sam Smith & Normani	Dancing With A Stranger	chart2000	2010s
+Sam Smith, Normani	Dancing With A Stranger	YouTube	2019
+Sam Smith & Normani	Dancing with a Stranger	Itunes	2010-2020
+Sam Smith & Normani	Dancing with a Stranger	Apple Music	2017-2020
+
+benny blanco	Eastside	Spotify	2013-2020
+Benny Blanco, Halsey & Khalid	Eastside	chart2000	2010s
+benny blanco, Halsey & Khalid	Eastside	YouTube	2018
+benny blanco, Halsey & Khalid	Eastside	Itunes	2010-2020
+benny blanco, Halsey & Khalid	Eastside	Apple Music	2017-2020
+
+possibly wrong credits?
+
+Lucenzo	Danza Kuduro	Itunes	2010-2020
+Don Omar	Danza Kuduro ft. Lucenzo	YouTube	2010
+
+lots of old pops in post 2010 as 'remastered' (ex. Queen's remastered 2011 albums)
+
+chart2000 is the best at giving credits to featured aritsts
+
+
+START from 2322
